@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/react-calculator/static/css/main.d9d2096f.css",
-    "main.js": "/react-calculator/static/js/main.53e6f320.js",
-    "static/media/fontawesome-webfont.svg?v=4.7.0": "/react-calculator/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
-    "static/media/fontawesome-webfont.eot": "/react-calculator/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
-    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/react-calculator/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
-    "static/media/fontawesome-webfont.woff?v=4.7.0": "/react-calculator/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
-    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/react-calculator/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
-    "index.html": "/react-calculator/index.html",
-    "main.d9d2096f.css.map": "/react-calculator/static/css/main.d9d2096f.css.map",
-    "main.53e6f320.js.map": "/react-calculator/static/js/main.53e6f320.js.map"
+    "main.css": "/React-Calculator/static/css/main.9d167141.css",
+    "main.js": "/React-Calculator/static/js/main.53e6f320.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/React-Calculator/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/React-Calculator/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/React-Calculator/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/React-Calculator/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/React-Calculator/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/React-Calculator/index.html",
+    "main.9d167141.css.map": "/React-Calculator/static/css/main.9d167141.css.map",
+    "main.53e6f320.js.map": "/React-Calculator/static/js/main.53e6f320.js.map"
   },
   "entrypoints": [
-    "static/css/main.d9d2096f.css",
+    "static/css/main.9d167141.css",
     "static/js/main.53e6f320.js"
   ]
 }
